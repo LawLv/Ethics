@@ -1,4 +1,4 @@
-# CS340 Final Project: Depth to Fairness
+# Computer Ethics Project: Depth to Fairness
 
 ## 📌 Project Overview
 
